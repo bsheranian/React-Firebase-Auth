@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Important
+
+When cloning, refactor .env file to .env.local and update file to have correct values for your personal Firebase app.
+
 ## Available Scripts
 
 In the project directory, you can run:
